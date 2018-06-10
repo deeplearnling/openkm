@@ -3,4 +3,4 @@ Added another line to REAMD.md
 git is a free software
 git is a version control system
 git has stage
-git tracks change
+git tracks change of files
