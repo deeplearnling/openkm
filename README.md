@@ -13,3 +13,4 @@ test stash model
 test push
 test origin/dev
 local add
+remote add
