@@ -12,3 +12,4 @@ test fix bug
 test stash model
 test push
 test origin/dev
+remote add
