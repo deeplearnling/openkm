@@ -8,3 +8,4 @@ creating a new branch
 conflict fixed
 no ff 
 office
+new machine join git
